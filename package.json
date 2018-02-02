@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "api-ai-recognizer": "^1.1.1",
-    "botbuilder": "^3.14.0"
+    "botbuilder": "^3.14.0",
+    "restify": "^6.3.4"
   }
 }
